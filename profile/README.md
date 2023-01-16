@@ -1,12 +1,48 @@
-## Hi there 👋
+## We are 👋
 
-<!--
+<aside>
+💡 우리가 학교와 회사에서 배운 내용을 활용해 우리를 이롭게 하자.
 
-**Here are some ideas to get you started:**
+</aside>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 🧭 미션
+
+
+우리는 매일 무엇을 위해 일하나?
+
+
+
+
+> **데이터 분석, 인공지능 역량 햑상**
+> 
+
+# 🔍 비전
+
+팀의 장기적인 포부. 우리를 어떻게 변화시키고 싶은가?
+
+
+
+> **모든 유형의 데이터와 모델을 자유자재로 활용**
+> 
+
+# ⚖️ 가치
+
+
+팀이 지향하는 가치
+
+
+> ### 독립적인 작업
+>
+> 우리는 모두 서로 다른 장소에서 각기 다른 일을 하고 있다. 각자의 장소에서 서로 다른 방법으로 작업한다.
+>
+> ### 소통과 협업
+>
+> 각자의 인사이트는 서로 간의 피드백을 통해 발전한다.
+> 
+> ### 구조화된 프로세스
+>
+> 확인 가능한 실패가 확인 불가능한 성공보다 낫다. 우리의 프로젝트는 진행상황을 기록, 실패를 들추어 성공으로 나아간다.
+>
+> ### 낙관적인 태도
+>
+> 모든 프로젝트가 성공하는 것은 아니다. 훌륭한 팀이 살아남는 것이 아니라, 살아남는 팀이 훌륭한 것이다.
